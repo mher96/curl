@@ -1,0 +1,5 @@
+{
+	"require": {
+        "sameer-shelavale/php-countries-array": "*"
+    }
+}
